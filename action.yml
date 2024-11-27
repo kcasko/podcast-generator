@@ -1,4 +1,4 @@
-name: "ljjaiiafi435808004"
+name: "Simple Podcast Generator"
 author: "Keith Casko"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
